@@ -1,2 +1,1 @@
-# DevOps
-# DevSecOps-Essentials
+
